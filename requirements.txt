@@ -1,0 +1,15 @@
+pandas
+polars
+numpy
+scikit-learn
+lightgbm
+xgboost
+catboost
+torch
+torchvision
+transformers
+datasets
+albumentations
+opencv-python-headless
+accelerate
+tqdm
